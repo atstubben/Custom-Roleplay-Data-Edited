@@ -8,3 +8,11 @@ This datapack has two commands:
 
 /trigger CustomModelDataRemove
   This command will remove all CustomModelData from the item in your hand.
+
+INSTALLATION:
+Place the 'custom_roleplay_data' datapack in the 'datapacks' folder of your world.
+Place the 'StubbsCustoms.zip' in your resourcepacks folder.
+Enjoy!
+
+CUSTOMIZATION:
+If you are new to resource packs, feel free to unzip the example pack and check out the .json files, you should be able to replace my images with your own if you just want basic stuff.
