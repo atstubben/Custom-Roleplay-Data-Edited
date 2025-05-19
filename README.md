@@ -11,7 +11,7 @@ This datapack has two commands:
 
 INSTALLATION:
 Place the 'custom_roleplay_data' datapack in the 'datapacks' folder of your world.
-Place the 'StubbsCustoms.zip' in your resourcepacks folder.
+Download a working resource pack and place it in your resourcepacks folder. Example pack https://github.com/atstubben/StubbsCustoms
 Enjoy!
 
 CUSTOMIZATION:
